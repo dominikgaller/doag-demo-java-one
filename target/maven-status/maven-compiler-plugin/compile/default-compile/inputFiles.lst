@@ -1,0 +1,8 @@
+/Users/dominikgaller/Development/playground/DOAG16/doag-demo-service-one/src/main/java/com/esentri/microservices/doag/demo/service/one/management/ManagementService.java
+/Users/dominikgaller/Development/playground/DOAG16/doag-demo-service-one/src/main/java/com/esentri/microservices/doag/demo/service/one/management/Sessiondistribution.java
+/Users/dominikgaller/Development/playground/DOAG16/doag-demo-service-one/src/main/java/com/esentri/microservices/doag/demo/service/one/management/entities/User.java
+/Users/dominikgaller/Development/playground/DOAG16/doag-demo-service-one/src/main/java/com/esentri/microservices/doag/demo/service/one/management/UserDatabasePopulator.java
+/Users/dominikgaller/Development/playground/DOAG16/doag-demo-service-one/src/main/java/com/esentri/microservices/doag/demo/service/one/management/HazelcastUtil.java
+/Users/dominikgaller/Development/playground/DOAG16/doag-demo-service-one/src/main/java/com/esentri/microservices/doag/demo/service/one/IdeRunner.java
+/Users/dominikgaller/Development/playground/DOAG16/doag-demo-service-one/src/main/java/com/esentri/microservices/doag/demo/service/one/management/Authentication.java
+/Users/dominikgaller/Development/playground/DOAG16/doag-demo-service-one/src/main/java/com/esentri/microservices/doag/demo/service/one/management/AuthorizeUserHandler.java
